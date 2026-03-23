@@ -1,5 +1,11 @@
 # 🎂 MakeAWish-AI: The Genie AI Assistant for Custom Cakes
 
+
+<p align="center">
+  <img src="./github_coverimg.png" width="600" />
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Business-B2B%20%2F%20B2C%20Platform-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini%203.1%20Flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
