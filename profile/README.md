@@ -1,5 +1,11 @@
 # 🎂 MakeAWish: Custom Cake O2O Commerce Platform
 
+
+<p align="center">
+  <img src="./github_coverimg.png" width="600" />
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-O2O%20Custom%20Cake-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Event--Driven%20Microservices-blue?style=for-the-badge" />
