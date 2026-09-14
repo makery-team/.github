@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./github_coverimg.png" width="600" />
+  <img src="./github_coverimg.jpg" width="600" />
 </p>
 
 
